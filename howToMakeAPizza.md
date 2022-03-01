@@ -1,3 +1,4 @@
+
 Pizza Napolitana
 
 Ingredientes napole: 
@@ -27,3 +28,5 @@ Pasos:
 7. Retírela del horno y esparza la salsa de tomate pomodoro de manera uniforme por toda la masa
 8. Agregue el queso rallado y, sobre el mismo, las rodajas de tomate y hojas de albahaca
 9. Hornee a 175°C por 10 minutos
+10. Disfruta comiendo una deliciosa pizza con tu familia y amigos.
+
