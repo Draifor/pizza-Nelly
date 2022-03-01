@@ -1,4 +1,4 @@
-Pizza Napolitana
+Pizza Nelly
 
 Ingredientes napole: 
 
@@ -14,18 +14,23 @@ Ingredientes masa:
 4. 1 cucharadita de sal
 5. ½ cucharada de azúcar
 6. 3 cucharadas de aceite de oliva
+7. Jamón
+8. Peperonni
+9. Champiñones
+10. Maíz
 
 
-Pasos: 
+ 
+ Preparación:
 
 1. Se buscan los ingredientes
-2. Para la masa, mezclar la harina, agua, sal y levadura, 
+2. Para la masa: activar la levadura, luego hacer un volcán con la harina, poner en un costado la sal y en el centro el resto de los ingredientes, amasar hasta obtener una masa lisa y elastica 
 3. dejar reposar por media hora.
 4. porcionar, amasar y dejar leudar por dos horas.
-5. Para la salsa, Tomate perita, cebolla redonda, ajo, oregano
+5. Para la salsa, Tomate perita, cebolla redonda, ajo, orégano
 6. cortar la cebolla y el ajo y sofreir, colocarle el oregano, luego los tomates licuados
-7. hervir a minima llama por tre horas.
-8. para hacer la pizza, tomar la porcióny colocarla sobre la harina de maiz y extenderla con los dedos, no con rodillo.
+7. hervir a fuego minimo por tres horas.
+8. para hacer la pizza, tomar la porción y colocarla sobre la harina de maiz y extenderla con los dedos, no con rodillo.
 9. En un molde, colocar  la masa extendida del grosor deseado sobre la harina de maiz, colocarle la salsa, embutidos, queso, rociar oregano, y albahaca, decorar con pimenton,  
 10. meter en el horno, por 15 0 20 minutos
 11. Disfruta comiendo una deliciosa pizza con tu familia y amigos
