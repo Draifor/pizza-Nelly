@@ -8,3 +8,8 @@
 8.- para hacer la pizza, tomar la porcióny colocarla sobre la harina de maiz y extenderla con los dedos, no con rodillo.
 9.-En un molde, colocar  la masa extendida del grosor deseado sobre la harina de maiz, colocarle la salsa, embutidos, queso, rociar oregano, y albahaca, decorar con pimenton,  
 10.- meter en el horno, por 15 0 20 minutos
+1. Preparar la masa y esperar que respire un poco.
+2. Integrar los ingredientes con la masa.
+3. ingresar la pizza al horno por 20 minutos.
+4. dividir las porciones de la pizza para repartir.
+5. Disfruta comiendo una deliciosa pizza con tu familia y amigos.
