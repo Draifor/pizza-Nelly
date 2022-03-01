@@ -1,23 +1,38 @@
-Ingredientes:
-1. Harina de trigo 500gr
-2. 1 Huevo grande
-3. 2 cdas de levadura seca 
-4. 200ml de leche o agua tibia
-5. 1 cda de mantequila
-6. 1 cdita de sal
-7. 1 cda de Azucar
-8. Tomates
-9. Queso mozzarella
-10. Jamom
-11. Pepperoni
-12. Oregano al gusto
-13. Champiñones
-14. Maiz
+Pizza Nelly
+
+Ingredientes napole: 
+
+1. 4 tomates riñón
+2. 2 tazas de queso mozzarella rallado
+3. Cantidad necesaria de albahaca
+
+Ingredientes masa:
+
+1. ½ taza de agua tibia
+2. 2 cucharaditas de levadura seca
+3. 2 tazas de harina
+4. 1 cucharadita de sal
+5. ½ cucharada de azúcar
+6. 3 cucharadas de aceite de oliva
+7. Jamón
+8. Peperonni
+9. Champiñones
+10. Maíz
 
 
-Preparacion                        
-1. Preparar la masa: activar la levadura, luego hacer un volcan con la harina, poner en un costado la sal y en el centro el resto de los ingredientes, amasar hasta obtener una masa lisa y elastica, dejar reposar durante 40 minutos.
-Pasado esto desgasificar lamasa y estirarla.
-2. Preparar la salsa: sancochar los tomates, pelarlos y licuarlos con tomate, cebolla y oregano a fuego bajo por 30min
-3. Armar la Pizza: estirar la masa, poner la salsa, el jamon, el queso, los champiñones y todos los ingredientes, llevar al horno a 180grados durante 30 minutos.
-4. Disfruta comiendo una deliciosa pizza con tu familia y amigos.
+ 
+ Preparación:
+
+1. Se buscan los ingredientes
+2. Para la masa: activar la levadura, luego hacer un volcán con la harina, poner en un costado la sal y en el centro el resto de los ingredientes, amasar hasta obtener una masa lisa y elastica 
+3. dejar reposar por media hora.
+4. porcionar, amasar y dejar leudar por dos horas.
+5. Para la salsa, Tomate perita, cebolla redonda, ajo, orégano
+6. cortar la cebolla y el ajo y sofreir, colocarle el oregano, luego los tomates licuados
+7. hervir a fuego minimo por tres horas.
+8. para hacer la pizza, tomar la porción y colocarla sobre la harina de maiz y extenderla con los dedos, no con rodillo.
+9. En un molde, colocar  la masa extendida del grosor deseado sobre la harina de maiz, colocarle la salsa, embutidos, queso, rociar oregano, y albahaca, decorar con pimenton,  
+10. meter en el horno, por 15 0 20 minutos
+11. Disfruta comiendo una deliciosa pizza con tu familia y amigos
+
+
