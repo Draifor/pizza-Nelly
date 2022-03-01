@@ -1,12 +1,6 @@
-Pizza Nelly
+# PIZZA NELLY
 
-Ingredientes napole: 
-
-1. 4 tomates riñón
-2. 2 tazas de queso mozzarella rallado
-3. Cantidad necesaria de albahaca
-
-Ingredientes masa:
+## Ingredientes para la masa:
 
 1. ½ taza de agua tibia
 2. 2 cucharaditas de levadura seca
@@ -14,25 +8,46 @@ Ingredientes masa:
 4. 1 cucharadita de sal
 5. ½ cucharada de azúcar
 6. 3 cucharadas de aceite de oliva
-7. Jamón
-8. Peperonni
-9. Champiñones
-10. Maíz
 
+## Ingredientes para la salsa:
 
- 
- Preparación:
+1. Tomate perita
+2. 4 tomates riñón
+3. Cebolla redonda
+4. Ajo
+5. Orégano
+6. 2 tazas de queso mozzarella rallado
+7. Cantidad necesaria de albahaca
 
-1. Se buscan los ingredientes
-2. Para la masa: activar la levadura, luego hacer un volcán con la harina, poner en un costado la sal y en el centro el resto de los ingredientes, amasar hasta obtener una masa lisa y elastica 
-3. dejar reposar por media hora.
-4. porcionar, amasar y dejar leudar por dos horas.
-5. Para la salsa, Tomate perita, cebolla redonda, ajo, orégano
-6. cortar la cebolla y el ajo y sofreir, colocarle el oregano, luego los tomates licuados
-7. hervir a fuego minimo por tres horas.
-8. para hacer la pizza, tomar la porción y colocarla sobre la harina de maiz y extenderla con los dedos, no con rodillo.
-9. En un molde, colocar  la masa extendida del grosor deseado sobre la harina de maiz, colocarle la salsa, embutidos, queso, rociar oregano, y albahaca, decorar con pimenton,  
-10. meter en el horno, por 15 0 20 minutos
-11. Disfruta comiendo una deliciosa pizza con tu familia y amigos
+## Ingredientes para la pizza:
 
+1. Queso
+2. Jamón
+3. Peperonni
+4. **Más queso**
+4. Champiñones
+6. Maíz
+7. **Y más queso**
 
+## Preparación:
+
+### Para la masa:
+
+1. Activar la levadura
+2. Hacer un volcán con la harina
+3. Poner en un costado la sal y en el centro el resto de los ingredientes
+4. Amasar hasta obtener una masa lisa y elastica
+5. Dejar reposar por media hora
+6. Porcionar, amasar y dejar leudar por dos horas
+
+### Para la salsa:
+
+1. Cortar la cebolla, el ajo y sofreir, colocarle el orégano y luego los tomates licuados
+2. hervir a fuego minimo por tres horas
+
+### Para hacer la pizza:
+
+1. Tomar la porción de masa, colocarla sobre la harina de maíz y extenderla con los dedos, no con rodillo
+2. En un molde, colocar la masa extendida del grosor deseado sobre la harina de maíz, colocarle la salsa, embutidos, queso, rociar orégano, y albahaca, decorar con pimentón
+6. Meter en el horno, por 15 0 20 minutos
+7. **Disfruta comiendo una deliciosa pizza con tu familia y amigos**
