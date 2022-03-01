@@ -20,3 +20,4 @@ Preparacion
 Pasado esto desgasificar lamasa y estirarla.
 2. Preparar la salsa: sancochar los tomates, pelarlos y licuarlos con tomate, cebolla y oregano a fuego bajo por 30min
 3. Armar la Pizza: estirar la masa, poner la salsa, el jamon, el queso, los champiñones y todos los ingredientes, llevar al horno a 180grados durante 30 minutos.
+4. Disfruta comiendo una deliciosa pizza con tu familia y amigos.
