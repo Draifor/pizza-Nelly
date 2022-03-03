@@ -29,5 +29,6 @@ Pasos:
 9. En un molde, colocar  la masa extendida del grosor deseado sobre la harina de maiz, colocarle la salsa, embutidos, queso, rociar oregano, y albahaca, decorar con pimenton,  
 10. meter en el horno, por 15 0 20 minutos
 11. Disfruta comiendo una deliciosa pizza con tu familia y amigos
+12. La mejor pizza del mundo!
 
 
